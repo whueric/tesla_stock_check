@@ -12,6 +12,8 @@
 
 当检测到库存时会有弹窗通知（详见各操作系统的通知功能），在Mac下还可以给手机发iMessage提醒（需要将代码中 *mobile_phone* 修改为正确的手机号码）。
 
+<img src="./mac_notification.png" alt="Mac通知" title="Mac通知">
+
 ## 扩展性
 特斯拉商店各商品的网页结构都差不多，对该脚本做适当调整，应该也可以支持其它商品的库存监控和加购。
 比如将 *url_puddle* 改为Model3迎宾灯的网址，就可以抢购Model3的迎宾灯了。
